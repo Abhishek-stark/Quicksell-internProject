@@ -191,6 +191,13 @@ img {
 .icons {
     height: 18px;
     width: 18px;
+    margin-right: 4px;
+}
+
+.iconss {
+    height: 14px;
+    width: 14px;
+    margin-right: 4px;
 }
 
 .statuses {
